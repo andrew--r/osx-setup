@@ -44,7 +44,6 @@ installcask firefoxdeveloperedition
 installcask sublime-text
 installcask atom
 installcask visual-studio-code
-installcask
 
 # devtools
 installcask iterm2
