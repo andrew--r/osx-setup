@@ -33,6 +33,7 @@ installcask vlc
 installcask transmission
 installcask libreoffice
 installcask cakebrew
+installcask spectacle
 
 # browsers
 installcask google-chrome
