@@ -15,6 +15,7 @@ brew install tree
 brew install git
 brew install wget
 brew install jq # rich json viewing
+brew install httpie # frendlier curl alternative
 
 brew tap caskroom/cask
 brew tap caskroom/versions
