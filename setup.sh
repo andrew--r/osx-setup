@@ -9,13 +9,12 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew update
 brew upgrade
 
-# install apps
-
 brew install tree
 brew install git
 brew install wget
 brew install jq # rich json viewing
 brew install httpie # frendlier curl alternative
+brew install tldr # friendlier man alternative 
 
 brew tap caskroom/cask
 brew tap caskroom/versions
